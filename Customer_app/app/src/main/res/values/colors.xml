@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccentlight">#FF98BB</color>
+    <color name="blue"  >#FF33B5E5</color>
+    <color name="purple" >#ad9fb0</color>
+    <color name="green" >#99cc00</color>
+    <color name="orange"  >#FFFFBB33</color>
+    <color name="red"  >#FFFF4444</color>
+    <color name="darkblue"  >#FF0099CC</color>
+    <color name="darkpurple"  >#4b2456</color>
+    <color name="darkgreen"  >#669900</color>
+    <color name="darkorange"  >#FFFF8800</color>
+    <color name="darkred"  >#FFCC0000</color>
+    <color name="customeblue"  >#3b5998</color>
+    <color name="lowDarkfont"  >#5D070E07</color>
+    <color name="white" >#ffffff</color>
+    <color name="whiteback"  >#f9f9f9</color>
+    <color name="whitebackground"  >#d4d3d3</color>
+    <color name="shadow">#959595</color>
+    <color name="black"  >#FF040303</color>
+    <color name="btn_pink">#c24052</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="thm_yellow">#ebfe19</color>
+    <color name="light_gray">#3a3b39</color>
+    <color name="middark_gray">#252623</color>
+    <color name="light_shadow">#BCBCBC</color>
+    <color name="thm_blue">#6200EE</color>
+    <color name="thm_red">#E53935</color>
+
+    <color name="thm_green">#d7e8cd</color>
+    <color name="thm_greenwhite">#f8fbf1</color>
+    <color name="thm_midgreendark">#E1EFD8</color>
+    <color name="thm_darkgreenwhite">#b0e5a2</color>
+    <color name="thm_darkGreen">#3c6a34</color>
+</resources>
