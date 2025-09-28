@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- Focused state -->
-    <item android:color="@color/thm_darkgreenwhite" android:state_focused="true" />
-    <!-- Unfocused state -->
-    <item android:color="@color/thm_green" android:state_focused="false"/>
-</selector>
